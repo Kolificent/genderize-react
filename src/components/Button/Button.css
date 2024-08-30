@@ -1,0 +1,14 @@
+button {
+  cursor: pointer;
+  font-family: 'Inter';
+  color: white;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid var(--orange);
+  background-color: var(--orange);
+}
+
+.disabled {
+  border: 1px solid var(--grey);
+  background-color: var(--grey);
+}

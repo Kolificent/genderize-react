@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'inter';
+  src: url(../public/fonts/Inter-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'inter';
+  src: url(../public/fonts/Inter-Bold.ttf);
+  font-weight: bold;
+  font-style: normal;
+}
+
+:root {
+  --black: #1a181b;
+  --orange: #f08956;
+  --grey: #9fb7b9;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--black);
+}

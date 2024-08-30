@@ -1,0 +1,9 @@
+input {
+  padding: 6px 8px;
+  border: 1px solid var(--orange);
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: 'Inter';
+  font-weight: normal;
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 100%;
+}
+
+.name-input {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.name-for-genderize {
+  font-family: 'inter';
+  font-weight: bold;
+  font-size: 30px;
+}
